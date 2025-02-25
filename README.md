@@ -1,1 +1,2 @@
-# NN-Scratch-Project
+# NNfromScratch
+ 
